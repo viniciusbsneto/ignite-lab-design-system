@@ -26,7 +26,7 @@ export function SignIn() {
           </TextInput.Root>
         </label>
 
-        <label htmlFor="email" className="flex flex-col gap-3">
+        <label htmlFor="password" className="flex flex-col gap-3">
           <Text className="font-semibold">Senha</Text>
           <TextInput.Root>
             <TextInput.Icon>
